@@ -4,7 +4,7 @@
   "description": "Me learning ECMAScript 6 Harmony",
   "main": "index.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "test": "node ./node_modules/eslint/bin/eslint.js Concepts/**/*.js"
   },
   "repository": {
     "type": "git",
@@ -15,5 +15,8 @@
   "bugs": {
     "url": "https://github.com/gerlocian/es6-learning/issues"
   },
-  "homepage": "https://github.com/gerlocian/es6-learning#readme"
+  "homepage": "https://github.com/gerlocian/es6-learning#readme",
+  "dependencies": {
+    "eslint": "^2.10.2"
+  }
 }
