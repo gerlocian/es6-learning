@@ -1,0 +1,19 @@
+{
+  "name": "es6-learning",
+  "version": "0.0.0",
+  "description": "Me learning ECMAScript 6 Harmony",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/gerlocian/es6-learning.git"
+  },
+  "author": "Patrick Ortiz",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/gerlocian/es6-learning/issues"
+  },
+  "homepage": "https://github.com/gerlocian/es6-learning#readme"
+}
