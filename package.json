@@ -16,7 +16,8 @@
     "url": "https://github.com/gerlocian/es6-learning/issues"
   },
   "homepage": "https://github.com/gerlocian/es6-learning#readme",
-  "dependencies": {
-    "eslint": "^2.10.2"
+  "dependencies": {},
+  "devDependencies": {
+    "eslint": "^7.20.0"
   }
 }

@@ -21,7 +21,7 @@
     test(`Patrick Ortiz ${ value1 } Sept 21 ${ value2 }`);
 
     // This is a bit convaluded, but I'm attempting to highlight the point.
-    function generator(strings, ...others) {
+    function generator(strings) {
         if (strings[0] === 'Hello ' && strings[1] === ', how are you?') {
             return (name, lang) => {
                 const ENG_STRING = `Hello ${name}, how are you?`;

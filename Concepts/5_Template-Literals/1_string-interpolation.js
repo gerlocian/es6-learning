@@ -15,7 +15,7 @@
         first_name: 'Patrick',
         last_name: 'Ortiz',
         middle_name: 'Finley'
-    }
+    };
 
     console.log(`Hello, ${person.first_name}`); // Hello, Patrick
 
